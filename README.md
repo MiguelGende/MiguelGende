@@ -1,4 +1,6 @@
-
+<p align="center">
+  <span style="font-size: 72px;">👋</span>
+</p>
 
 # ¡Hola! Soy Miguel 👋
 
@@ -32,4 +34,7 @@ Si tienes alguna pregunta, quieres colaborar o simplemente saludar, no dudes en 
 * **Email:** miguel.gende@gmail.com
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelGende&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="Estadísticas de GitHub" style="max-width: 100%;" />
+  &nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-MiguelGende&layout=compact&theme=dark&hide_title=true" alt="Lenguajes Top" style="max-width: 100%;" />
+</p>
