@@ -27,6 +27,15 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 
 ---
 
+### 🏆 Certificaciones
+
+[![Data Science Orientation Badge](https://raw.githubusercontent.com/MiguelGende/MiguelGende/main/data-science-orientation.png)](https://www.credly.com/badges/5fc2d535-e716-46c4-881a-f4822b8da0e5/public_url)
+[![Coursera Certificate Badge](URL_DE_LA_IMAGEN_QUE_COPIASTE_DE_COURSERA)](https://coursera.org/share/92bc97872a8c280838ad0d55cc02ce34)
+
+---
+
+---
+
 ### 🚀 ¿Qué busco?
 
 Estoy en un constante aprendizaje y busco oportunidades para crecer profesionalmente, colaborar en proyectos innovadores y seguir expandiendo mis conocimientos en el desarrollo backend. ¡Siempre abierto a aprender y compartir!
