@@ -27,7 +27,7 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 
 ### 🏆 Certificaciones
 
-[![Data Science Orientation Badge](https://raw.githubusercontent.com/MiguelGende/MiguelGende/main/data-science-orientation.png)](https://www.credly.com/badges/5fc2d535-e716-46c4-881a-f4822b8da0e5/public_url)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Google AI Essentials](https://img.shields.io/badge/Google%20AI%20Essentials-grey?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/92bc97872a8c280838ad0d55cc02ce34)
+[![Data Science Orientation Badge](https://raw.githubusercontent.com/MiguelGende/MiguelGende/main/data-science-orientation.png)](https://www.credly.com/badges/88d65ffa-ce32-425e-a02b-6f7e89e728d6/public_url)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Google AI Essentials](https://img.shields.io/badge/Google%20AI%20Essentials-grey?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/92bc97872a8c280838ad0d55cc02ce34)
 
 ---
 
