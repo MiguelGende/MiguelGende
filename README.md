@@ -43,7 +43,7 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
          height="150">
   </a>
   <!-- Google AI -->
-  <a href="https://coursera.org/share/92bc97872a8c280838ad0d55cc02ce34" target="_blank">
+  <a href="https://coursera.org/share/b74f5573ce59e369f0364a6bb6395c4f" target="_blank">
     <img src="https://raw.githubusercontent.com/MiguelGende/MiguelGende/main/google-ai-essentials.svg" 
          alt="Google AI Essentials" 
          width="150" 
