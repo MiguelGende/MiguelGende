@@ -29,7 +29,9 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 
 [![Data Science Orientation Badge](https://raw.githubusercontent.com/MiguelGende/MiguelGende/main/data-science-orientation.png)](https://www.credly.com/badges/88d65ffa-ce32-425e-a02b-6f7e89e728d6/public_url)
 [![Google AI Essentials](https://img.shields.io/badge/Google%20AI%20Essentials-grey?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/92bc97872a8c280838ad0d55cc02ce34)
-[![Laravel Certificate](https://raw.githubusercontent.com/MiguelGende/MiguelGende/main/LaravelCertification.jpg)](https://verifier.certificationforlaravel.org/ceb83b72-080f-4a28-9f03-f486381f3ad6)
+<a href="https://verifier.certificationforlaravel.org/ceb83b72-080f-4a28-9f03-f486381f3ad6" target="_blank">
+  <img src="https://raw.githubusercontent.com/MiguelGende/MiguelGende/main/LaravelCertification.jpg" alt="Laravel Certificate" width="150" height="150" style="border-radius: 8px;">
+</a>
 ---
 
 ---
