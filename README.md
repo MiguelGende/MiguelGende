@@ -6,7 +6,7 @@ Soy un **apasionado de las nuevas tecnologías** y actualmente me estoy formando
 
 ---
 
-### 💻 Tecnologías y Herramientas
+###  Tecnologías y Herramientas
 
 Aquí están algunas de las tecnologías y herramientas con las que he trabajado:
 
@@ -25,44 +25,49 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 
 ---
 
-### 🏆 Certificaciones
+###  Certificaciones
 
-<p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin: 20px 0;">
   
-  <!-- Certificación Data Science -->
-  <a href="https://www.credly.com/badges/88d65ffa-ce32-425e-a02b-6f7e89e728d6/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/MiguelGende/MiguelGende/main/data-science-orientation.png" 
-         alt="Data Science Orientation" 
-         style="width: 150px; height: 150px; object-fit: contain; border-radius: 8px;">
-  </a>
+  <!-- Data Science -->
+  <div style="width: 160px; text-align: center;">
+    <a href="https://www.credly.com/badges/88d65ffa-ce32-425e-a02b-6f7e89e728d6/public_url" target="_blank">
+      <img src="https://raw.githubusercontent.com/MiguelGende/MiguelGende/main/data-science-orientation.png" 
+           alt="Data Science" 
+           style="width: 150px; height: 150px; object-fit: contain; border-radius: 8px; border: 2px solid #333;">
+    </a>
+  </div>
   
-  <!-- Certificación Google AI -->
-  <a href="https://coursera.org/share/92bc97872a8c280838ad0d55cc02ce34" target="_blank" 
-     style="display: inline-block; width: 150px; height: 150px; text-align: center;">
-    <img src="https://img.shields.io/badge/Google%20AI%20Essentials-grey?style=for-the-badge&logo=google&logoColor=white" 
-         alt="Google AI Essentials" 
-         style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a>
+  <!-- Google AI -->
+  <div style="width: 160px; text-align: center;">
+    <a href="https://coursera.org/share/92bc97872a8c280838ad0d55cc02ce34" target="_blank">
+      <div style="width: 150px; height: 150px; display: flex; align-items: center; justify-content: center; background: #2b2b2b; border-radius: 8px; border: 2px solid #333; padding: 10px;">
+        <span style="color: white; font-size: 14px; font-weight: bold;">Google AI<br>Essentials</span>
+      </div>
+    </a>
+  </div>
   
-  <!-- Certificación Laravel -->
-  <a href="https://verifier.certificationforlaravel.org/ceb83b72-080f-4a28-9f03-f486381f3ad6" target="_blank">
-    <img src="https://raw.githubusercontent.com/MiguelGende/MiguelGende/main/LaravelCertification.jpg" 
-         alt="Laravel Certificate" 
-         style="width: 150px; height: 150px; object-fit: contain; border-radius: 8px;">
-  </a>
+  <!-- Laravel -->
+  <div style="width: 160px; text-align: center;">
+    <a href="https://verifier.certificationforlaravel.org/ceb83b72-080f-4a28-9f03-f486381f3ad6" target="_blank">
+      <img src="https://raw.githubusercontent.com/MiguelGende/MiguelGende/main/LaravelCertification.jpg" 
+           alt="Laravel Certificate" 
+           style="width: 150px; height: 150px; object-fit: contain; border-radius: 8px; border: 2px solid #333;">
+    </a>
+  </div>
   
-</p>
+</div>
 ---
 
 ---
 
-### 🚀 ¿Qué busco?
+###  ¿Qué busco?
 
 Estoy en un constante aprendizaje y busco oportunidades para crecer profesionalmente, colaborar en proyectos innovadores y seguir expandiendo mis conocimientos en el desarrollo backend. ¡Siempre abierto a aprender y compartir!
 
 ---
 
-### 📫 Contacto
+###  Contacto
 
 Si tienes alguna pregunta, quieres colaborar o simplemente saludar, no dudes en contactarme:
 
