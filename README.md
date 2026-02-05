@@ -67,6 +67,30 @@ Si tienes alguna pregunta, quieres colaborar o simplemente saludar, no dudes en 
 * **Email:** miguel.gende@gmail.com
 
 ---
+
+### 📚 Recursos Útiles
+
+#### ❌ Cómo Cancelar la Suscripción de GitHub Copilot
+
+Si necesitas cancelar tu suscripción de GitHub Copilot, sigue estos pasos:
+
+1. **Accede a tu cuenta de GitHub** en [github.com](https://github.com)
+2. **Ve a Configuración** (Settings):
+   - Haz clic en tu foto de perfil en la esquina superior derecha
+   - Selecciona **Settings**
+3. **Navega a Billing and plans**:
+   - En el menú lateral izquierdo, busca y haz clic en **Billing and plans**
+4. **Encuentra GitHub Copilot**:
+   - En la sección de suscripciones, localiza **GitHub Copilot**
+5. **Cancela la suscripción**:
+   - Haz clic en **Edit** o **Cancel** junto a GitHub Copilot
+   - Sigue las instrucciones para confirmar la cancelación
+
+**Nota:** Al cancelar, mantendrás acceso a GitHub Copilot hasta el final de tu período de facturación actual.
+
+Para más información, consulta la [documentación oficial de GitHub](https://docs.github.com/en/billing/managing-billing-for-github-copilot/canceling-github-copilot).
+
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MiguelGende&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="Estadísticas de GitHub" style="max-width: 100%;" />
   &nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelGende&layout=compact&theme=dark&hide_title=true&count_private=true" alt="Lenguajes Top" style="max-width: 100%;" />
