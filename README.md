@@ -5,7 +5,7 @@ Profesional del desarrollo de software con experiencia técnica en la creación 
 
 ---
 
-## 🖋️ Perfil Profesional
+##  Perfil Profesional
 
 Mi enfoque se centra en el desarrollo de software de calidad, priorizando la mantenibilidad, la seguridad y la eficiencia del código. Poseo una mentalidad Fullstack que me permite transitar con fluidez entre la arquitectura de bases de datos y la implementación de interfaces de usuario modernas.
 
@@ -15,7 +15,7 @@ Mi enfoque se centra en el desarrollo de software de calidad, priorizando la man
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 ### Core Development
 * **Lenguajes:** PHP (Modern), JavaScript (ES6+), TypeScript.
@@ -29,7 +29,7 @@ Mi enfoque se centra en el desarrollo de software de calidad, priorizando la man
 
 ---
 
-## 📜 Certificaciones Especializadas
+##  Certificaciones Especializadas
 
 Mi compromiso con la excelencia técnica se refleja en mi formación continua con instituciones líderes del sector:
 
@@ -39,16 +39,8 @@ Mi compromiso con la excelencia técnica se refleja en mi formación continua co
 
 ---
 
-## 📊 Actividad en Ingeniería de Software
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelGende&show_icons=true&theme=transparent&hide_border=true&title_color=005C84&icon_color=005C84&text_color=333" alt="Estadísticas de MiguelGende" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelGende&layout=compact&theme=transparent&hide_border=true&title_color=005C84&text_color=333" alt="Lenguajes predominantes" height="165" />
-</p>
-
----
-
-## 📬 Contacto y Colaboración
+##  Contacto y Colaboración
 
 Estoy interesado en proyectos que desafíen los límites de la tecnología actual y en oportunidades de colaboración en entornos de alto nivel técnico.
 
