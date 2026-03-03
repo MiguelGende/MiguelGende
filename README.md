@@ -49,6 +49,30 @@ Estoy interesado en proyectos que desafíen los límites de la tecnología actua
 * **Localización:** España
 
 ---
+
+### 📚 Recursos Útiles
+
+#### ❌ Cómo Cancelar la Suscripción de GitHub Copilot
+
+Si necesitas cancelar tu suscripción de GitHub Copilot, sigue estos pasos:
+
+1. **Accede a tu cuenta de GitHub** en [github.com](https://github.com)
+2. **Ve a Configuración** (Settings):
+   - Haz clic en tu foto de perfil en la esquina superior derecha
+   - Selecciona **Settings**
+3. **Navega a Billing and plans**:
+   - En el menú lateral izquierdo, busca y haz clic en **Billing and plans**
+4. **Encuentra GitHub Copilot**:
+   - En la sección de suscripciones, localiza **GitHub Copilot**
+5. **Cancela la suscripción**:
+   - Haz clic en **Edit** o **Cancel** junto a GitHub Copilot
+   - Sigue las instrucciones para confirmar la cancelación
+
+**Nota:** Al cancelar, mantendrás acceso a GitHub Copilot hasta el final de tu período de facturación actual.
+
+Para más información, consulta la [documentación oficial de GitHub](https://docs.github.com/en/billing/managing-billing-for-github-copilot/canceling-github-copilot).
+
+---
 <p align="center">
   <sub>Fullstack Developer Portfolio | © 2026</sub>
 </p>
