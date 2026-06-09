@@ -71,6 +71,6 @@ Aplicación nativa construida con Swift y SwiftUI, explorando el ecosistema Appl
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-miguel-gende-gende-199062118)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:miguel.gende@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)]([(https://portfolio-miguel-gende.vercel.app)])
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-miguel-gende.vercel.app)
 
 España · Disponible para trabajo remoto · Abierto a nuevas oportunidades
